@@ -17,3 +17,13 @@
 # mnozenie = a*b
 # dzielenie = a/b
 # print(dodawanie, odejmowanie, mnozenie, dzielenie)
+
+# zad3
+# a = 10
+# b = 5
+# a+=b
+# a-=b
+# a*=b
+# a/=b
+# a**=b
+# a%=b

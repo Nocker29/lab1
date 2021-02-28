@@ -40,3 +40,9 @@
 # name=input("Podaj imie: ")
 # surname=input("Podaj nazwisko: ")
 # print(name.capitalize()+" "+surname.capitalize())
+
+# zad6
+# tekst="na, na-na, na-na, na-na, na-na, na, na-na, na-na, na-na, na, na-na, na-na, na-na"
+# slowo="na"
+# ilosc=tekst.count(slowo)
+# print(ilosc)

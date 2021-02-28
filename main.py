@@ -27,3 +27,16 @@
 # a/=b
 # a**=b
 # a%=b
+
+# zad4
+# e=int(input("Podaj e: "))
+# i=0
+# while i<=10:
+#     i+=1
+#     e*=e
+# print("e^10=",e)
+
+# zad 5
+# name=input("Podaj imie: ")
+# surname=input("Podaj nazwisko: ")
+# print(name.capitalize()+" "+surname.capitalize())

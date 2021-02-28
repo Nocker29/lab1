@@ -54,3 +54,11 @@
 # zad8
 # x=tekst.split()
 # print(x)
+
+# zad9
+# imie="Mateusz"
+# liczba=6.25
+# liczba_16=0xA153F
+# print("Imie: %s"%imie)
+# print("Liczba: %f"%liczba)
+# print("Liczba hexadecymalna: %X"%liczba_16)

@@ -46,3 +46,7 @@
 # slowo="na"
 # ilosc=tekst.count(slowo)
 # print(ilosc)
+
+# zad7
+# imie=input("Podaj imie:" )
+# print(imie[1]+" "+imie[len(imie)-1])

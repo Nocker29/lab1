@@ -50,3 +50,7 @@
 # zad7
 # imie=input("Podaj imie:" )
 # print(imie[1]+" "+imie[len(imie)-1])
+
+# zad8
+# x=tekst.split()
+# print(x)

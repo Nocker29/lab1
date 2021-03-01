@@ -10,31 +10,32 @@
 # print(a,b,c,d,e,f,g,h)
 
 # zad2
-# a = 8
-# b = 3
-# dodawanie = a+b
-# odejmowanie = a-b
-# mnozenie = a*b
-# dzielenie = a/b
-# print(dodawanie, odejmowanie, mnozenie, dzielenie)
-
-# zad3
-# a = 10
-# b = 5
-# a+=b
-# a-=b
-# a*=b
-# a/=b
-# a**=b
-# a%=b
+# pierwsza_liczba=input("Pierwsza liczba: ")
+# znak=input("Podaj znak działania: ")
+# druga_liczba=input("Podaj drugą liczbę: ")
+#
+# if znak == "+":
+#     suma = int(pierwsza_liczba) + int(druga_liczba)
+#     print(suma)
+# elif znak == "-":
+#     roznica = int(pierwsza_liczba) - int(druga_liczba)
+#     print(roznica)
+# elif znak == "*":
+#     iloczyn = int(pierwsza_liczba) * int(druga_liczba)
+#     print(iloczyn)
+# elif znak == "/":
+#     iloraz = int(pierwsza_liczba) / int(druga_liczba)
+#     print(iloraz)
+# else:
+#     print("error")
 
 # zad4
-# e=int(input("Podaj e: "))
-# i=0
-# while i<=10:
-#     i+=1
-#     e*=e
-# print("e^10=",e)
+# a=2
+# a=exp(10)
+# print(a)
+# sinus=sin(8)**2
+# logarytm=log(5+sinus)**(1/6)
+# print(logarytm)
 
 # zad 5
 # name=input("Podaj imie: ")
